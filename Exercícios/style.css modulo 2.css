@@ -1,0 +1,27 @@
+/* Não Altere o CSS Inicial, Apenas Adicione o Seu CSS. */
+
+.box {
+    background-color: blue;
+    padding: 10px;
+    
+  }
+  
+  p {
+    
+    color: yellow;
+    margin: 0;
+    padding: 0;
+    
+  }
+
+  div [class="box inner-box"]{
+    background-color: red;
+    
+  }
+
+ .div[class="box"]{
+    border: 10px;
+    border-color: purple 1px solid;
+
+  }
+
